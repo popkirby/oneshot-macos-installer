@@ -1,0 +1,8 @@
+*.exe
+images/*.png
+build
+dist
+*.spec
+
+files/_______.app/Contents/Resources/images
+__pycache__
