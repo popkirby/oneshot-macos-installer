@@ -10,7 +10,7 @@ If you are asked to enter password / Steam Guard code, enter them.
 
 After the login, type `@sSteamCmdForcePlatformType windows` and press Enter.
 
-Then, type `download 420530` and press Enter. OneShot's game data will be installed in
+Then, type `app_update 420530 validate` and press Enter. OneShot's game data will be installed in
 `/Users/<username>/Library/Application Support/Steam/steamapps/common/OneShot`.
 
 ### 2. Extract data from exe file
