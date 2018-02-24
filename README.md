@@ -25,6 +25,16 @@ After the installation, The OneShot directory will be opened. You can play OneSh
 
 For convenience, I recommend adding OneShot application to Dock or creating shortcut.
 
+## Troubleshooting
+
+### cannot open `~.command` file or `OneShot.app`
+
+Right-click the file and select 'Open'.
+
+### An error `Unable to open 'Data/xScripts.rxdata'` occures
+
+Move `_______.app` and `OneShot.app` to somewhere outside the OneShot directory,
+open them, then move them again to OneShot directory.
 
 ## Information
 
